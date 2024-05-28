@@ -1,4 +1,4 @@
-### Desktop Appp
+### Desktop App
 ```
 npm install --save-dev electron
 ```
