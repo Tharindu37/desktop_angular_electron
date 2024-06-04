@@ -107,6 +107,10 @@ package.json
     ]
   }
 ```
+```
+"electron": "ng build --base-href ./ && electron .",
+"dist": "ng build --base-href ./ && electron-builder"
+```
 main.js
 ```
 
